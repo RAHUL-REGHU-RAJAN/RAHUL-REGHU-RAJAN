@@ -33,7 +33,9 @@
                    through continuous learning."
 }
 
+
 ```
+
 - 🛡️ Hands-on experience in information security, threat detection,
       vulnerability assessment, and penetration testing.
 - 🧪 Building practical cybersecurity labs for enterprise monitoring, attack simulation, and security analysis.
