@@ -3,15 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Reghu%20Rajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Professional%20%7C%20Information%20Security%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=62&descSize=16" width="100%"/>
 
 
-<a href="https://github.com/RAHUL-REGHU-RAJAN">
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hello+World" />
-
-</div>
-
-    alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=30&amp;pause=1000&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Cybersecurity+Professional;Information+Security;Threat+Detection;Offensive+%26+Defensive+Security;EC-Council+Certified+Ethical+Hacker+CEH" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=rahulreghurajan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
@@ -23,6 +17,12 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+<pre>
+
+<code>
+
+<span style="color:#39FF14">
+    
 ```bash
 $ whoami
 {
@@ -38,6 +38,12 @@ $ whoami
                    through continuous learning."
 }
 ```
+</span>
+
+</code>
+
+</pre>
+
 
 - 🛡️ Hands-on experience in information security, threat detection,
       vulnerability assessment, and penetration testing.
@@ -151,8 +157,9 @@ $ whoami
 ## 🌱 Currently Learning
 
 ![Advanced Cyber Defence](https://img.shields.io/badge/Advanced_Cyber_Defence-2E86C1?style=flat-square)
-![GRC](https://img.shields.io/badge/GRC-Governance%2C_Risk_%26_Compliance-2E86C1?style=flat-square)
 ![SIEM Engineering](https://img.shields.io/badge/SIEM_Engineering-16A085?style=flat-square)
+![](https://img.shields.io/badge/Governance%2C_Risk_%26_Compliance-2E86C1?style=flat-square)
+
 
 <br/>
 
