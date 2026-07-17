@@ -81,15 +81,16 @@ $ whoami
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="165"
+<img width="49%"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RAHUL-REGHU-RAJAN&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?username=RAHUL-REGHU-RAJAN&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img width="98%"
+src="https://streak-stats.demolab.com?user=RAHUL-REGHU-RAJAN&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
