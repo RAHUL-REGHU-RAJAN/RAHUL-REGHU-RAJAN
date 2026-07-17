@@ -81,12 +81,12 @@ $ whoami
 
 <div align="center">
 
-<img width="100%"
+<img width="80%"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <br/><br/>
 
-<img width="50%"
+<img width="80%"
 src="https://streak-stats.demolab.com?user=RAHUL-REGHU-RAJAN&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
