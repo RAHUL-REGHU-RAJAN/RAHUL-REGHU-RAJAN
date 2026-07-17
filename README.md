@@ -4,7 +4,12 @@
 
 
 <a href="https://github.com/RAHUL-REGHU-RAJAN">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&lines=Cybersecurity+Professional;Information+Security;Threat+Detection;Offensive+%26+Defensive+Security;EC-Council+Certified+Ethical+Hacker+(CEH)" 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hello+World" />
+
+</div>
+
     alt="Typing SVG" />
 </a>
 
