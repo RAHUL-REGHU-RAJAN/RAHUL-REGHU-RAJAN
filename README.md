@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Reghu%20Rajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Professional%20%7C%20Threat%20Detection%20%26%20Ethical%20Hacking&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Reghu%20Rajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Professional%20%7C%20Information%20Security%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/rahulreghurajan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Certified+Ethical+Hacker+(CEH+v13);VAPT+%7C+Threat+Detection+%7C+SIEM;Securing+Systems%2C+One+Exploit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Cybersecurity+Professional+🛡️;Information+Security+|+Threat+Detection;EC-Council+Certified+Ethical+Hacker+(CEH);Offensive+%26+Defensive+Security;Building+Practical+Cybersecurity+Projects" 
+    alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=rahulreghurajan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
@@ -21,19 +22,23 @@ $ whoami
 {
   "name"        : "Rahul Reghu Rajan",
   "role"        : "Cybersecurity Professional",
-  "focus"       : ["Threat Detection", "VAPT", "SIEM", "Network Security"],
+  "focus"       : ["Information Security", "Threat Detection",
+                  "Security Monitoring", "Penetration Testing"],
   "location"    : "Tamil Nadu, India",
   "certified"   : "EC-Council CEH v13",
   "currently"   : "Advanced Diploma in Cyber Defence",
   "languages"   : ["Tamil", "English", "Malayalam", "Hindi"],
-  "fun_fact"    : "I break things on purpose, then tell you how to fix them."
+  "mission"     : "Building practical cybersecurity solutions
+                   through continuous learning."
 }
 ```
 
-- 🔐 Hands-on experience across **offensive and defensive security** — from penetration testing to enterprise threat monitoring
-- 🧪 Builder of security labs integrating **SIEM, IDS, and vulnerability scanning pipelines**
-- 🎓 Currently pursuing an **Advanced Diploma in Cyber Defence** at RedTeam Hacker Academy
-- 📫 Reach me at **rahulreghurajan@gmail.com** or connect on [LinkedIn](https://linkedin.com/rahulreghurajan)
+- 🛡️ Hands-on experience in information security, threat detection,
+      vulnerability assessment, and penetration testing.
+- 🧪 Building practical cybersecurity labs for enterprise monitoring, attack simulation, and security analysis.
+- 🎓 EC-Council Certified Ethical Hacker (CEH) | Advanced Diploma in Cyber Defence (ADCD).
+- 📚 Continuously expanding knowledge in Information Security, GRC, and enterprise security operations.
+- 📫 Reach me at **rahulreghurajan@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/rahul-reghu-rajan/)
 - 🌐 Portfolio: [rahulhub.vercel.app](https://rahulhub.vercel.app)
 
 <br/>
@@ -43,9 +48,9 @@ $ whoami
 **Offensive Security**
 
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![VAPT](https://img.shields.io/badge/VAPT-D32F2F?style=flat-square)
 ![Web App Security](https://img.shields.io/badge/Web_App_Security-C0392B?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Network_Security-8E44AD?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-D32F2F?style=flat-square)
 
 **Defensive Security**
 
@@ -76,16 +81,16 @@ $ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulreghurajan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreghurajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHUL-REGHU-RAJAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rahulreghurajan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=RAHUL-REGHU-RAJAN&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulreghurajan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAHUL-REGHU-RAJAN&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 </div>
 
@@ -94,7 +99,7 @@ $ whoami
 ## 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahulreghurajan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RAHUL-REGHU-RAJAN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>
@@ -120,8 +125,8 @@ $ whoami
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Enterprise Threat Detection & Monitoring Lab](https://github.com/rahulreghurajan)** | Kali Linux, Wazuh, Snort IDS, Sysmon, Nmap, Hydra | Built an enterprise security lab integrating **Wazuh SIEM + Snort IDS + Sysmon** to detect, monitor, and investigate simulated cyberattacks; performed VAPT, recon, and brute-force simulations with documented mitigation recommendations |
-| **[ESP32 Marauder – WiFi Security Assessment](https://github.com/rahulreghurajan)** | ESP32 Marauder, ESP32, Kali Linux | Conducted wireless security assessments to evaluate Wi-Fi security in a controlled lab; performed wireless reconnaissance and analyzed network security posture with documented findings and recommendations |
+| **[Enterprise Threat Detection & Monitoring Lab](https://github.com/RAHUL-REGHU-RAJAN/ENTERPRISE-THREAT-DETECTION-AND-MONITORING-LAB)** | Kali Linux, Wazuh, Snort IDS, Sysmon, Nmap, Hydra | Built an enterprise security lab integrating **Wazuh SIEM + Snort IDS + Sysmon** to detect, monitor, and investigate simulated cyberattacks; performed VAPT, recon, and brute-force simulations with documented mitigation recommendations |
+| **[ESP32 Marauder – WiFi Security Assessment](https://github.com/RAHUL-REGHU-RAJAN/ESP32-Marauder-Mini-DIY-build)** | ESP32 Marauder, ESP32, Kali Linux | Conducted wireless security assessments to evaluate Wi-Fi security in a controlled lab; performed wireless reconnaissance and analyzed network security posture with documented findings and recommendations |
 
 </div>
 
@@ -133,7 +138,7 @@ $ whoami
 
 | | Achievement | Details |
 |---|---|---|
-| 🎓 | **EC-Council CEH v13** | Certified Ethical Hacker — validated foundation in ethical hacking, security concepts, and security controls (June 2026) |
+| 🎓 | **EC-Council CEH v13** | Certified Ethical Hacker - validated foundation in ethical hacking, security concepts, and security controls (June 2026) |
 | 🧭 | **Rotaract Club Treasurer** | Elected to manage financial records and budgeting for club-wide activities (2023 - 2024) |
 
 </div>
@@ -156,7 +161,7 @@ $ whoami
 ## 🌱 Currently Learning
 
 ![Advanced Cyber Defence](https://img.shields.io/badge/Advanced_Cyber_Defence-2E86C1?style=flat-square)
-![Red Team Ops](https://img.shields.io/badge/Red_Team_Operations-C0392B?style=flat-square)
+![Governance, Risk & Compliance]
 ![SIEM Engineering](https://img.shields.io/badge/SIEM_Engineering-16A085?style=flat-square)
 
 <br/>
