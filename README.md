@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Reghu%20Rajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Professional%20%7C%20Information%20Security%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=62&descSize=16" width="100%"/>
 
+
 <a href="https://github.com/RAHUL-REGHU-RAJAN">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Cybersecurity+Professional;Information+Security+%7C+Threat+Detection;EC-Council+Certified+Ethical+Hacker+(CEH);Offensive+%26+Defensive+Security;Building+Practical+Cybersecurity+Projects"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&lines=Cybersecurity+Professional;Information+Security;Threat+Detection;Offensive+%26+Defensive+Security;EC-Council+Certified+Ethical+Hacker+(CEH)" 
     alt="Typing SVG" />
 </a>
 
