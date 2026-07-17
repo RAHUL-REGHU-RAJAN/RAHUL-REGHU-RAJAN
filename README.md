@@ -32,6 +32,7 @@
   "mission"     : "Building practical cybersecurity solutions
                    through continuous learning."
 }
+
 ```
 - 🛡️ Hands-on experience in information security, threat detection,
       vulnerability assessment, and penetration testing.
