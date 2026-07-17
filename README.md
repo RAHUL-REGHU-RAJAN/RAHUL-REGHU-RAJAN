@@ -1,30 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Reghu%20Rajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Professional%20%7C%20Information%20Security%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=62&descSize=16" width="100%"/>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Cybersecurity+Professional;Information+Security;Threat+Detection;Offensive+%26+Defensive+Security;EC-Council+Certified+Ethical+Hacker+CEH" />
+
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=30&amp;pause=1000&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Cybersecurity+Professional;Information+Security;Threat+Detection;Offensive+%26+Defensive+Security;EC-Council+Certified+Ethical+Hacker+CEH" />
+  <sub><i>> Break. Detect. Defend.</i></sub>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=rahulreghurajan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=rahulreghurajan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/> -->
 
 </div>
 
-<br/>
 
 ## 👋 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<pre>
-
-<code>
-
-<span style="color:#39FF14">
-    
 ```bash
-$ whoami
+┌──(rahul㉿security)-[~/projects]
+└─$ whoami
 {
   "name"        : "Rahul Reghu Rajan",
   "role"        : "Cybersecurity Professional",
@@ -38,13 +33,6 @@ $ whoami
                    through continuous learning."
 }
 ```
-</span>
-
-</code>
-
-</pre>
-
-
 - 🛡️ Hands-on experience in information security, threat detection,
       vulnerability assessment, and penetration testing.
 - 🧪 Building practical cybersecurity labs for enterprise monitoring, attack simulation, and security analysis.
