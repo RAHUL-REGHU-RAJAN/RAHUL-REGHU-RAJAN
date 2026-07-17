@@ -81,15 +81,12 @@ $ whoami
 
 <div align="center">
 
-<img width="49%"
+<img width="100%"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RAHUL-REGHU-RAJAN&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="98%"
+<img width="50%"
 src="https://streak-stats.demolab.com?user=RAHUL-REGHU-RAJAN&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
