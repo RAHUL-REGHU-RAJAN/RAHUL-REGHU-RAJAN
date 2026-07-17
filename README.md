@@ -81,12 +81,15 @@ $ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHUL-REGHU-RAJAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<img height="165"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL-REGHU-RAJAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RAHUL-REGHU-RAJAN&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RAHUL-REGHU-RAJAN&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?username=RAHUL-REGHU-RAJAN&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
 <br/><br/>
 
@@ -154,7 +157,7 @@ $ whoami
 ## 🌱 Currently Learning
 
 ![Advanced Cyber Defence](https://img.shields.io/badge/Advanced_Cyber_Defence-2E86C1?style=flat-square)
-![Governance, Risk & Compliance](https://img.shields.io/badge/Governance%2C_Risk_%26_Compliance-GRC-blue?style=flat-square)
+![GRC](https://img.shields.io/badge/GRC-Governance%2C_Risk_%26_Compliance-2E86C1?style=flat-square)
 ![SIEM Engineering](https://img.shields.io/badge/SIEM_Engineering-16A085?style=flat-square)
 
 <br/>
