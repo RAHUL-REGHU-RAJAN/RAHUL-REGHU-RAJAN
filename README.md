@@ -80,7 +80,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 </div>
 
 <br/>
-
+-->
 
 ## 💼 Experience & Leadership
 
